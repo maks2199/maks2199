@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maks2199
+- 👋 Hi, I’m Maksim Tachkov.
 - 👀 I’m interested in all kinds of software development. 
 - 🌱 I’m currently learning web software development.
 - 💞️ I’m looking to collaborate on all kinds of self-management apps.
